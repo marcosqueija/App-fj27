@@ -1,32 +1,42 @@
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\dto\input\CreateTopicDto.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\model\Category.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\controller\UserAuthenticationController.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\dto\input\LoginDto.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\repository\CourseRepository.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\annotation\ApiPageable.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\model\Answer.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\repository\TopicRepository.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\dto\output\DashboardDto.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\config\SecurityConfig.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\service\DashboardService.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\service\UserService.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\controller\TopicController.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\model\topic\domain\TopicState.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\model\topic\domain\TopicStatus.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\model\Role.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\repository\UserRepository.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\config\CorsConfig.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\security\jwt\TokenManager.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\ForumApplication.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\config\SwaggerConfig.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\dto\output\AuthenticationTokenOutputDto.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\model\Course.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\dto\input\TopicSearchDto.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\security\jwt\JwtAuthenticationFilter.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\model\User.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\model\topic\domain\Topic.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\repository\CategoryRepository.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\dto\output\TopicStatisticDto.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\dto\output\TopicOutputDto.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\service\TopicService.java
-C:\Users\Marcos Queija\git\caelum-fj27-t2\src\main\java\br\com\alura\forum\controller\DashboardController.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\security\jwt\JwtAuthenticationFilter.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\model\Course.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\dto\output\AnswerOutputDto.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\repository\AnswerRepository.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\config\SwaggerConfig.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\dto\input\AnswerInputDto.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\model\topic\domain\Topic.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\service\ForumMailService.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\dto\output\AuthenticationTokenOutputDto.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\config\SecurityConfig.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\dto\output\TopicOutputDto.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\model\Answer.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\annotation\ApiPageable.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\security\jwt\TokenManager.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\dto\output\TopicStatisticDto.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\config\CorsConfig.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\dto\input\TopicSearchDto.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\controller\AnswerController.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\dto\output\ValidationErrorsOutputDto.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\repository\TopicRepository.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\validation\TopicSpamValidation.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\service\UserService.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\dto\output\DashboardDto.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\ForumApplication.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\model\topic\domain\TopicStatus.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\repository\CategoryRepository.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\repository\CourseRepository.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\service\AnswerService.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\controller\DashboardController.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\model\topic\domain\TopicState.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\service\DashboardService.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\dto\input\CreateTopicDto.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\controller\ExceptionHandlerController.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\controller\TopicController.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\controller\UserAuthenticationController.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\model\User.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\dto\input\LoginDto.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\model\Role.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\model\Category.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\dto\output\FieldErrorOutputDto.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\repository\UserRepository.java
+C:\Marcos\AreadeTrabalho\Workspace_Eclipse_3\App-fj27\src\main\java\br\com\alura\forum\service\TopicService.java

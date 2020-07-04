@@ -1,5 +1,6 @@
 package br.com.alura.forum.dto.output;
 
+import br.com.alura.forum.model.Answer;
 import br.com.alura.forum.model.topic.domain.Topic;
 import br.com.alura.forum.model.topic.domain.TopicStatus;
 import lombok.Data;
@@ -24,18 +25,19 @@ public class TopicOutputDto {
     private int numberOfResponses;
     private boolean solved;
     private TopicStatus topicStatus;
+    private List<AnswerOutputDto> answers;
 
     public static TopicOutputDto of(Topic topic) {
         return new TopicOutputDto(topic);
     }
 
-    public static List<TopicOutputDto> fromTopics(List<Topic> topics) {
+    public static List<TopicOutputDto> ofTopics(List<Topic> topics) {
         return topics.stream()
                 .map(TopicOutputDto::new)
                 .collect(Collectors.toList());
     }
 
-    public static Page<TopicOutputDto> fromTopics(Page<Topic> topics) {
+    public static Page<TopicOutputDto> ofTopics(Page<Topic> topics) {
         return topics.map(TopicOutputDto::new);
     }
 
@@ -50,6 +52,7 @@ public class TopicOutputDto {
         this.numberOfResponses = topic.getNumberOfAnswers();
         this.solved = TopicStatus.SOLVED.equals(topic.getStatus());
         this.topicStatus = topic.getStatus();
+        this.answers = AnswerOutputDto.ofAnswers(topic.getAnswers());
     }
 
     private long getSecondsSince(Instant lastUpdate) {
